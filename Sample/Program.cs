@@ -12,6 +12,7 @@ namespace Sample
         {
             Console.WriteLine("Hello World");
             Console.ReadLine();
+            Console.WriteLine("Test Test Test Test");
         }
     }
 }
